@@ -3,7 +3,7 @@ random_seed: 454
 train_from_scratch: True
 model_save_folder_path: "saved_model/"
 
-max_epochs: 2
+max_epochs: 30
 warmup_iters: 100_000
 max_iters: 600_000
 
