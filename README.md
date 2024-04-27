@@ -8,7 +8,7 @@ To create a new conda environment for Adanovo and activate this environment, run
 conda create --name adanovo python=3.10
 conda activate adanovo
 ```
-
+## Install package
 Enter the working directory and install the corresponding environment dependencies for running Adanovo:
 
 ```
