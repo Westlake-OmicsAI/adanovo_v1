@@ -40,3 +40,15 @@ python adanovo.py --mode=denovo --model=xx.ckpt --peak_path=case.mgf --config=co
 ```
 Replace xx.ckpt with the path of the model you have already trained.
 Replace case.mgf with the dataset you are preparing to sequence.
+
+## Citation
+```
+@inproceedings{
+xia2024towards,
+title={Towards Robust {\textbackslash}emph\{De Novo\} Peptide Sequencing in Proteomics against Data Biases},
+author={Jun Xia and Shaorong Chen and Jingbo Zhou and Xiaojun Shan and Wenjie Du and Zhangyang Gao and Cheng Tan and Bozhen Hu and Jiangbin Zheng and Stan Z. Li },
+booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+year={2024},
+url={https://openreview.net/forum?id=0zfUiSX5si}
+}
+```
